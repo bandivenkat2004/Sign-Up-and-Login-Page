@@ -1,0 +1,46 @@
+*{
+    background-color: bisque;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+.flabel{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.finput{
+    height: 20px;
+    width: 240px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.fbutton{
+    height: 32px;
+    width: 120px;
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    text-decoration: none;
+}
